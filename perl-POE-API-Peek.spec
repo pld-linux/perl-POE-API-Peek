@@ -6,7 +6,7 @@
 %define	pdir	POE
 %define	pnam	API-Peek
 Summary:	POE::API::Peek - peek into the internals of a running POE environment
-Summary(pl):	POE::API::Peek - wgl±d do wnêtrza dzia³ajacego ¶rodowiska POE
+Summary(pl):	POE::API::Peek - wgl±d do wnêtrza dzia³aj±cego ¶rodowiska POE
 Name:		perl-POE-API-Peek
 Version:	1.0251
 Release:	2
@@ -33,7 +33,7 @@ use in POE debugging.
 
 %description -l pl
 POE:API::Peek rozszerza interfejs POE::Kernel dostarczaj±c czysty
-dostêp do wnêtrza Kernela POE w sposób kompatybilny miêdzy werjsami.
+dostêp do wnêtrza Kernela POE w sposób kompatybilny miêdzy wersjami.
 Inne wyliczone dane tak¿e s± dostêpne.
 
 Intencj± Autora jest dostarczenie du¿ych ilo¶ci danych wewnêtrznych
