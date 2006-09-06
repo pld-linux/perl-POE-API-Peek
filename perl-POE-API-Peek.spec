@@ -42,7 +42,7 @@ przydatnych w procesie debugowania POE.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
-mv t/000*{,._notused}
+mv t/000-signature.t{,._notused}
 
 %build
 %{__perl} Makefile.PL \
