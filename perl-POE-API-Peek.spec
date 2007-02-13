@@ -6,7 +6,7 @@
 %define	pdir	POE
 %define	pnam	API-Peek
 Summary:	POE::API::Peek - peek into the internals of a running POE environment
-Summary(pl.UTF-8):   POE::API::Peek - wgląd do wnętrza działającego środowiska POE
+Summary(pl.UTF-8):	POE::API::Peek - wgląd do wnętrza działającego środowiska POE
 Name:		perl-POE-API-Peek
 Version:	1.06
 Release:	1
