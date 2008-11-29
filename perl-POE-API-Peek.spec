@@ -12,8 +12,9 @@ Version:	1.0802
 Release:	1
 License:	BSD-like
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/POE/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1f8af31c4bf49ca18bcb76e8790cd4f7
+URL:		http://search.cpan.org/dist/POE-API-Peek/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
