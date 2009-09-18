@@ -8,12 +8,12 @@
 Summary:	POE::API::Peek - peek into the internals of a running POE environment
 Summary(pl.UTF-8):	POE::API::Peek - wgląd do wnętrza działającego środowiska POE
 Name:		perl-POE-API-Peek
-Version:	1.32
+Version:	1.34
 Release:	1
 License:	BSD-like
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/POE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f85ca096f39a97f22139a758e02169a2
+# Source0-md5:	4c483bd98f7e0b45787dc8085f5c73ba
 URL:		http://search.cpan.org/dist/POE-API-Peek/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
